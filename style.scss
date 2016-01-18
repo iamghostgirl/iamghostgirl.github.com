@@ -11,11 +11,9 @@
 
 footer a { margin: 0 5px; }
 footer a:hover, footer i:hover { color: #666; }
-.pagination div.pagination {
-text-align: center;
-border-top: 1px solid #eee;
-padding-top: 40px;
-margin-top: 20px; }
+.pagination div.pagination { text-align: center; border-top: 1px solid #eee; padding-top: 40px; margin-top: 20px; }
+sup { vertical-align: super; font-size: small; } 
+.reversefootnote { vertical-align: text-top; }
 
 /**************/
 /* BASE RULES */
