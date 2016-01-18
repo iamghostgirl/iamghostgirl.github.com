@@ -3,6 +3,10 @@ layout: post
 title: Beginning
 ---
 
+Lately I have been watching a lot of documentaries. From CitizenFour to Paradise Lost to the Central Park Five, they all have one thing in common. Injustice.
+
+But yesterday I watched [The Internet's Own Boy](https://www.youtube.com/watch?v=vXr-2hwTk58) and it changed something inside me.
+
 This is only the beginning.[^1]
 
 Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
