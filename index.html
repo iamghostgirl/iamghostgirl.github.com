@@ -4,10 +4,9 @@ layout: default
 
 
 <!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -20,7 +19,6 @@ layout: default
     </article>
   {% endfor %}
 </div>
-{% endfor %}
 
 <!-- Pagination links -->
 <div class="pagination">
