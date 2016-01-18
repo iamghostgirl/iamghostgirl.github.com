@@ -18,9 +18,8 @@ html {
 }
 
 body {
-  font-family: "Georgia";
-  background-color: #ffd;
-  font: 18px/1.4;
+  background: $white;
+  font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
