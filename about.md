@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### Contact Me
+### You Want to Know More About Me?
 
-[ghostgirl@tuta.io](mailto:ghostgirl@tuta.io)
+Why?
