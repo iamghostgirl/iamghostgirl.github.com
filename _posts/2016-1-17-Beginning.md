@@ -7,6 +7,8 @@ Lately I have been watching a lot of documentaries. They all have very different
 
 But yesterday I watched [The Internet's Own Boy](https://www.youtube.com/watch?v=vXr-2hwTk58) and something inside me changed.
 
+I have been tantalized by the world of hacktivism, privacy, freedom of information before, but this is different.
+
 This is only the beginning.[^1]
 
 [^1]: Hey, it's a footnote.
