@@ -9,7 +9,7 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
-footer a:hover, footer i:hover { color: #666; }
+footer a:hover, footer a i:hover { color: #999; }
 .pagination div.pagination { text-align: center; border-top: 1px solid #eee; padding-top: 40px; margin-top: 20px; }
 sup { vertical-align: super; font-size: small; } 
 .reversefootnote { vertical-align: text-top; }
@@ -17,10 +17,7 @@ sup { vertical-align: super; font-size: small; }
 .tooltip-top { width: 240px; }
 .highlight, h2 { background-color: #eee; }
  h2 { display: inline-block; font-size: 24px !important; }
- a:focus, a:hover {
-    text-decoration: none !important;
-    color: #999 !important;
-}
+ a:focus, a:hover { text-decoration: none !important; color: #999 !important; }
 
 /**************/
 /* BASE RULES */
@@ -218,7 +215,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #ccc;
+  color: #999;
   font-size: 21px;
 
   @include mobile {
