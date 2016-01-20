@@ -6,9 +6,9 @@ permalink: /links/
 
 ### Watch
 
-The Internet's Own Boy
+[The Internet's Own Boy](https://www.youtube.com/watch?v=vXr-2hwTk58)
 
-CitizenFour
+[CitizenFour](https://citizenfourfilm.com/)
 
 ### Read
 
@@ -16,6 +16,6 @@ CitizenFour
 
 ### Use
 
-Tails
+[Tails](https://tails.boum.org/)
 
-Tor
+[Tor](https://www.torproject.org)
