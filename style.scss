@@ -17,6 +17,10 @@ sup { vertical-align: super; font-size: small; }
 .tooltip-top { width: 240px; }
 .highlight, h2 { background-color: #eee; }
  h2 { display: inline-block; font-size: 24px !important; }
+ a:focus, a:hover {
+    text-decoration: none !important;
+    color: #999 !important;
+}
 
 /**************/
 /* BASE RULES */
