@@ -4,16 +4,16 @@ title: Links
 permalink: /links/
 ---
 
-## Watch
+### Watch
 
 The Internet's Own Boy
 CitizenFour
 
-## Read
+### Read
 
 [Guerilla Open Access Manifesto](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt)
 
-## Use
+### Use
 
 Tails
 Tor
