@@ -26,10 +26,14 @@ integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En
 integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
 <script type="text/javascript">
-    $(document).ready(function(){
-    $('[data-toggle="tooltip"]').tooltip();   
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip({
+        placement : 'top'
     });
+});
 </script>
+
+
     
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
@@ -63,9 +67,9 @@ integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7
         <footer class="footer">
           {% include svg-icons.html %} <img height="31px" width="88px" 
           src="https://cloud.githubusercontent.com/assets/16749221/12436011/5883c91e-bf09-11e5-94ff-eaf527546eb1.png">
-          <a data-toggle="tooltip" data-placement="top" 
+          <a data-toggle="tooltip" 
           title="This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.">
-            Creative Commons</a>
+          Creative Commons</a>
         </footer>
       </div>
     </div>
