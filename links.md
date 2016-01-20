@@ -6,14 +6,14 @@ permalink: /links/
 
 ### Watch
 
-The Internet's Own Boy
-CitizenFour
+- The Internet's Own Boy
+- CitizenFour
 
 ### Read
 
-[Guerilla Open Access Manifesto](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt)
+- [Guerilla Open Access Manifesto](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt)
 
 ### Use
 
-Tails
-Tor
+- Tails
+- Tor
