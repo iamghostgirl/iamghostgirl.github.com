@@ -13,11 +13,11 @@ permalink: /the-list/
 
 [The Internet's Own Boy](https://www.youtube.com/watch?v=vXr-2hwTk58)
 : This documentary changed my life.
-
 [CitizenFour](https://citizenfourfilm.com/)
+: A revelation.
 
 ## Listen
-
+Podcasts, music.
 
 ## Use
 
