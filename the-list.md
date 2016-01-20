@@ -10,11 +10,11 @@ permalink: /the-list/
 
 [CitizenFour](https://citizenfourfilm.com/)
 
-### Read
+## Read
 
 [Guerilla Open Access Manifesto](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt)
 
-### Use
+## Use
 
 [Tails](https://tails.boum.org/)
 
